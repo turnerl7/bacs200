@@ -1,0 +1,30 @@
+body {
+    font-family: New Courier;
+    font-size: 24px;
+    padding: 50px;
+    background-image: url(http://www.featurepics.com/StockImage/20071104/old-paper-stock-image-509434.jpg);
+    text-align: center;
+}
+
+h1 {
+    background-color: brown;
+    color: lightgray;
+}
+
+main {
+    font-family: New Courier;
+    font-size: 24px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    box-shadow: 3px;
+    margin: auto;
+    width: 80%;
+    max-width: 800px;
+}
+
+img {
+    image-orientation: center;
+    border: 20px;
+    border-color: white;
+}
